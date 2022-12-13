@@ -1,4 +1,4 @@
-# IMSE-586_Team-2
+# A comparison of standard and penalized linear regression models predicting medical insurance payment with non-cost inputs
 
 This project is to assess the effectiveness of penalized linear regression, which has the same level of transparency and interpretability as standard regression, in estimating medical insurance payments with non-cost inputs. 
 
